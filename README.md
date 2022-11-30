@@ -1,12 +1,18 @@
 # Rohan-Lakhani
 
-About Me:-
+<h1 align="center">Hi 👋, I'm Rohan Lakhani</h1>
+<h3 align="center">Self-motivated Computer Science student with keen interest in coding.</h3>
 
-:wave: Hii, I am Rohan Lakhani from India.
+- 💻 I am a Full Stack Web Developer from the great India.
 
-:computer: I am a Full Stack Web Developer.
+- :dart: I’m currently learning a **DevOps ♾️**
 
-:dart: I am currently learning DevOps.
- 
-:metal: Skills:- Nodejs, Express, MongoDB, React, Java, Javascript, Data Structures & Algorithm And many more...
+- 💬 Ask me about **JavaScript, React, MongoDB, Expressjs, Nodejs, Data Structure and Algorithm**
+
+- 📫 How to reach me **rohanlakhani2003@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dhrumil-bhut-921999215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keval-rabadiya-496842203" height="30" width="40" /></a>
+</p>
 
