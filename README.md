@@ -1,7 +1,7 @@
 # Rohan-Lakhani
 
 <h1 align="center">Hi 👋, I'm Rohan Lakhani</h1>
-<h3 align="center">Self-motivated Computer Science student with keen interest in coding.</h3>
+<h3 align="center">Self-motivated Computer Science student with keen interest in coding</h3>
 
 - 💻 I am a Full Stack Web Developer from the great India.
 
